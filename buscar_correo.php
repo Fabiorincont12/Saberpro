@@ -1,6 +1,6 @@
 <?php
 // Datos de conexión a Airtable
-$api_key = 'pat7NiF8slEtqShQB.e9aa80b117b098186e66a6736ab9db0871e1d788d5dec89634c4f03d74326087';
+$api_key = 'pat7NiF8slEtqShQB.c55813673193ec31f697b0444ba941abdc06050a7ce1788eb6b9fa02968636b8';
 $base_id = 'appoXRlwse5BNcjNS';
 $table_name = 'Sheet0';
 
