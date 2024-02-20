@@ -8,7 +8,7 @@ $table_name = 'Sheet0';
 $identificacion = $_POST['Field 2'];
 
 // URL de la solicitud a Airtable para obtener los datos del estudiante por identificación
-$url = "https://api.airtable.com/v0/{$base_id}/{$table_name}?filterByFormula=({Identificacion}='{$identificacion}')";
+$url = "https://api.airtable.com/v0/{$base_id}/{$table_name}?filterByFormula=({Field 2}='{$identificacion}')";
 
 // Configurar la solicitud HTTP
 $options = [
