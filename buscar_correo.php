@@ -1,6 +1,6 @@
 <?php
 // Datos de conexión a la base de datos
-$servername = "localhost";
+$servername = "127.0.0.1";
 $username = "root";
 $password = "fama1112";
 $database = "saberpro";
